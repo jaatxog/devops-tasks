@@ -1,4 +1,5 @@
-# DevOps Real Tasks – 100% Working Solutions
+# DevOps Learnings – Practical, Interview-Ready Solutions
+
 
 Copy-paste ready solutions for the most common DevOps & Linux tasks you’ll face in interviews and real projects.
 
@@ -11,10 +12,10 @@ Every command works on the first try – no trial & error
 
 ## Completed Tasks
 
-| Task                                 | Description                                                                 | Difficulty | Solution Link                          |
-|--------------------------------------|-----------------------------------------------------------------------------|------------|----------------------------------------|
-| Nginx + PHP 8.2 FPM (Unix Socket)    | Nginx on port 8096, PHP-FPM 8.2 via `/var/run/php-fpm/default.sock`         | Medium     | [View](tasks/nginx-php82-fpm-8096.md)  |
-| *(Next task will appear here)*       |                                                                             |            |                                        |
+| Task                               | Description                                                     | Difficulty | Solution Link                          |
+|------------------------------------|-----------------------------------------------------------------|------------|----------------------------------------|
+| Nginx + PHP 8.2 FPM (Unix Socket)  | Nginx on port 8096, PHP-FPM 8.2 via Unix socket                 | Medium     | [View](tasks/nginx-php82-fpm-8096.md)  |
+| Docker – Core Commands & Learning  | Major Docker commands with real-world use cases                | Easy       | [View](tasks/docker_learning.md)       |
 
 ## How to Use
 1. Click the task  
